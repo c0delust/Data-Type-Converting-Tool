@@ -1,6 +1,6 @@
 # Data Type Converting Tool
 
-<b>Convert Data types into each other of various Programming Languages in One Click with Auto Copy feature</b>
+<b>Easily Convert Data types into each other of various Programming Languages in One Click 🖱 with Auto Copy 📜 feature.</b>
 
 ✔️ Available Languages:<br>
 ▫️ Java <br>
