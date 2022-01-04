@@ -13,3 +13,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/83002941/148099408-09190d37-679c-4f6a-8b43-9ea1c74633b5.gif" />
 </p>
+
+<p>
+  IDE: <img src="https://user-images.githubusercontent.com/83002941/148100718-1ca000bd-588a-4a00-91f1-10f76dc3cce4.jpeg" width = "90px" height = "27" />
+</p>
